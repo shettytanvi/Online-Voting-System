@@ -14,7 +14,8 @@ Schema Design:
 ![image](https://github.com/user-attachments/assets/a53faa9d-28a8-434c-89c8-0a6049f7d69a)
 Schema Design
 
-![image](https://github.com/user-attachments/assets/cfb9ce0c-cc57-4d90-ab51-e1a3a079187b)
+![image](https://github.com/user-attachments/assets/848145e9-681b-4d44-9e14-9b5a60bd2612)
+
 ER Diagram
 
 Advantages:
