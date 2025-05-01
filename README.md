@@ -1,4 +1,4 @@
-Objective:
+## Objective:
 
 Streamline the voting process through a disciplined and organized system.
 Enable easy record management for voters and candidates.
@@ -18,7 +18,7 @@ Schema Design
 
 ER Diagram
 
-Advantages:
+## Advantages:
 Centralized data storage for candidate and voter information.
 Safe and secure record-keeping.
 Quick and flexible report generation.
@@ -26,27 +26,27 @@ Easy data addition, modification, and deletion.
 Enhanced security features.
 User-friendly environment.
 
-Schema and ER Design:
+## Schema and ER Design:
 Database schema includes tables for users, voters, and candidates.
 Uses primary and foreign keys for data integrity and easy retrieval.
 
-Implementation:
+## Implementation:
 Languages:
 Frontend: PHP, HTML.
 Backend: MySQL.
 
-Key Features:
+## Key Features:
 PHP for server-side scripting.
 HTML for creating user interfaces.
 MySQL for managing relational databases.
 Includes triggers and procedures for automated and optimized database operations.
 
-Operations and Results:
+## Operations and Results:
 Administrative login and home pages provide access to voting functionalities.
 Features include candidate management, voter login, and vote tracking.
 Facilities for viewing, updating, and issuing records.
 
-Conclusion and Future Enhancements:
+## Conclusion and Future Enhancements:
 The system digitizes the voting process, reducing fraud and enabling transparency.
 Provides a robust platform for student elections with potential scalability for public voting using unique voter IDs.
 Offers an efficient, secure, and user-friendly solution for online voting.
